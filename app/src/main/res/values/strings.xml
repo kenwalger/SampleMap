@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sample Map Location</string>
+    <string name="title_activity_maps">Sample Map App - Maps Fragment</string>
+    <string name="title_activity_main">Sample Map App - Main</string>
+    <string name="lat_log">Latitude &amp; Longitude</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
